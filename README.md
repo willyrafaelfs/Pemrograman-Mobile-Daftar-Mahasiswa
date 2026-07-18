@@ -46,8 +46,12 @@ Berikut adalah tampilan antarmuka dari aplikasi Daftar Mahasiswa:
 | <img src="screenshots/edit.png" width="200"> | <img src="screenshots/nilai.png" width="200"> | <img src="screenshots/profile.png" width="200"> | <img src="screenshots/edit_photo.png" width="200"> |
 | *Form edit informasi.* | *Transkrip & IP otomatis.* | *Profil & toggle tema.* | *Simulasi ganti foto.* |
 
-> [!NOTE]
-> Pastikan Anda memasukkan gambar screenshot ke dalam folder `screenshots/` dengan nama file yang sesuai agar muncul di tabel di atas.
+| Hapus Data |
+| :---: |
+| <img src="screenshots/delete.png" width="200"> |
+| *Dialog konfirmasi untuk menghapus data mahasiswa.* |
+
+---
 
 ---
 
