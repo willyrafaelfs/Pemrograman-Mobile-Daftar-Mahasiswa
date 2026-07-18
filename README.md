@@ -36,22 +36,29 @@ Proyek ini adalah aplikasi Android berbasis **Jetpack Compose** yang dirancang u
 ## 📸 Screenshots
 Berikut adalah tampilan antarmuka dari aplikasi Daftar Mahasiswa:
 
-| Home Screen | Search Feature | Add Student | Detail Mahasiswa |
+### 1. Main & Search
+| Home Screen | Search Feature (1) | Search Feature (2) | Add Student |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/home.png" width="200"> | <img src="screenshots/search.png" width="200"> | <img src="screenshots/add.png" width="200"> | <img src="screenshots/detail.png" width="200"> |
-| *Daftar mahasiswa utama.* | *Fitur pencarian real-time.* | *Form tambah mahasiswa.* | *Informasi detail lengkap.* |
+| <img src="screenshots/home.png" width="180"> | <img src="screenshots/search1.png" width="180"> | <img src="screenshots/search2.png" width="180"> | <img src="screenshots/add.png" width="180"> |
+| *Daftar mahasiswa.* | *Pencarian (Awal).* | *Hasil pencarian.* | *Form tambah data.* |
 
-| Edit Data | Data Nilai | Profile & Dark Mode | Edit Foto Profil |
+### 2. Detail, Edit & Grades
+| Detail (1) | Detail (2) | Edit Data | Data Nilai |
 | :---: | :---: | :---: | :---: |
-| <img src="screenshots/edit.png" width="200"> | <img src="screenshots/nilai.png" width="200"> | <img src="screenshots/profile.png" width="200"> | <img src="screenshots/edit_photo.png" width="200"> |
-| *Form edit informasi.* | *Transkrip & IP otomatis.* | *Profil & toggle tema.* | *Simulasi ganti foto.* |
+| <img src="screenshots/detail1.png" width="180"> | <img src="screenshots/detail2.png" width="180"> | <img src="screenshots/edit.png" width="180"> | <img src="screenshots/nilai.png" width="180"> |
+| *Info akademik.* | *Info kontak.* | *Form edit data.* | *Transkrip & IP.* |
 
+### 3. Profile & Settings
+| Profile & Dark Mode | Edit Profil (1) | Edit Profil (2) | Edit Profil (3) |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/profile.png" width="180"> | <img src="screenshots/edit_profile1.png" width="180"> | <img src="screenshots/edit_profile2.png" width="180"> | <img src="screenshots/edit_profile3.png" width="180"> |
+| *Profil & Tema.* | *Pilih foto.* | *Ubah data kontak.* | *Simpan perubahan.* |
+
+### 4. Others
 | Hapus Data |
 | :---: |
-| <img src="screenshots/delete.png" width="200"> |
-| *Dialog konfirmasi untuk menghapus data mahasiswa.* |
-
----
+| <img src="screenshots/delete.png" width="180"> |
+| *Konfirmasi hapus.* |
 
 ---
 
