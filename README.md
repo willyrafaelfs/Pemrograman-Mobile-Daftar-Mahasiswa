@@ -6,6 +6,7 @@
 ## 👤 Informasi Mahasiswa
 - **Nama:** Willy Rafael F.S.
 - **NIM:** 23083000168
+- **Kelas** 6A2
 - **Mata Kuliah:** Pemrograman Mobile
 - **Instansi:** Universitas Merdeka Malang
 
