@@ -3,6 +3,17 @@
 
 ---
 
+## 📑 Daftar Isi
+- [👤 Identitas Mahasiswa](#-identitas-mahasiswa)
+- [🚀 Tentang Proyek](#-tentang-proyek)
+- [📸 Screenshots](#-screenshots)
+- [🛠️ Struktur Project](#️-struktur-project)
+- [🔑 Konsep Kunci yang Digunakan](#-konsep-kunci-yang-digunakan)
+- [📥 Cara Menjalankan (Clone Project)](#-cara-menjalankan-clone-project)
+- [Referensi](#referensi)
+
+---
+
 ## 👤 Identitas Mahasiswa
 - **Nama:** Willy Rafael F. Silalahi
 - **NIM:** 23083000168
