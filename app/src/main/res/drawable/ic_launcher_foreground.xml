@@ -1,14 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
     android:height="108dp"
     android:viewportWidth="108"
     android:viewportHeight="108">
-    <path
-        android:fillColor="#3DDC84"
-        android:pathData="M0,0h108v108h-108z" />
-    <path
-        android:fillColor="#00000000"
-        android:pathData="M25,30l58,0l0,48l-58,0z"
-        android:strokeWidth="0.8"
-        android:strokeColor="#FFFFFF" />
+    <!-- Ikon clipboard "Daftar Mahasiswa": papan putih dengan garis-garis daftar -->
+    <group
+        android:translateX="27.6"
+        android:translateY="27.6"
+        android:scaleX="2.2"
+        android:scaleY="2.2">
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M4,3H20V21H4Z" />
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M9,1H15V4H9Z" />
+        <path
+            android:fillColor="#FF1565C0"
+            android:pathData="M7,8H17V9.5H7Z" />
+        <path
+            android:fillColor="#FF1565C0"
+            android:pathData="M7,12H17V13.5H7Z" />
+        <path
+            android:fillColor="#FF1565C0"
+            android:pathData="M7,16H14V17.5H7Z" />
+    </group>
 </vector>
